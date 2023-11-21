@@ -1,0 +1,3 @@
+1699879152059:exec ls aa bb
+1699879185837:exec "ls aa bb"
+1699879675572:exec dir
